@@ -1,1 +1,1 @@
-My Academic Projects simulation using Raspberry Pi
+This project displays Checkboard pattern using the Raspberry Pi SenseHAT add-on board.
