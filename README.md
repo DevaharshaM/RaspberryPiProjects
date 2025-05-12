@@ -1,4 +1,4 @@
-My project uses the **Raspberry Pi 4 Model B** board.
+These projects use the **Raspberry Pi 4 Model B** board
 ---
 
 This repository contains the following branches:
